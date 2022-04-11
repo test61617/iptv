@@ -84,12 +84,8 @@ https://c217322ca48e4d1e98ab33fe41a5ed01.mediatailor.us-east-1.amazonaws.com/v1/
 http://51.79.193.108:8080/hls/j00047/index.m3u8?type=jp
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-171-400x400.png" group-title="General",BS TV Tokyo (720p) [Not 24/7]
 http://51.79.193.108:8080/hls/j00050/index.m3u8?type=jp
-#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVAutoMoto.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Se1a8Mm.png" group-title="Sports",Bumblebee TV AutoMoto (720p)
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p) [Not 24/7]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVCoronaVirusGov.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxq8ZsK.png" group-title="Science",Bumblebee TV CoronaVirus.Gov (720p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVCuteZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="Entertainment",Bumblebee TV Cute Zone (720p)
@@ -98,22 +94,14 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVGiggleZone.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CvbLApY.png" group-title="Entertainment",Bumblebee TV Giggle Zone (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (720p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVMotorCyclist.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/QIEhpPp.png" group-title="Sports",Bumblebee TV MotorCyclist (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVNowYouKnow.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/78K3L8J.png" group-title="Science",Bumblebee TV Now You Know (720p)
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVPopCornFlixAction.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ths3dIy.png" group-title="Movies",Bumblebee TV PopCornFlix Action (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Relax",Bumblebee TV Rivers Live (1080p) [Not 24/7]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVSmosh.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eCBYHJ4.png" group-title="Entertainment",Bumblebee TV Smosh (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p) [Not 24/7]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel (720p) [Not 24/7]
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religion",Catholic TV (720p) [Not 24/7]
@@ -228,11 +216,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Science",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
-#EXTINF:-1 tvg-id="STIRRTheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.wp.com/experience.bobross.com/wp-content/uploads/2019/04/cropped-bob-ross-signature-1.png" group-title="Relax",STIRR The Bob Ross Channel (240p)
+#EXTINF:-1 tvg-id="STIRRTheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.wp.com/experience.bobross.com/wp-content/uploads/2019/04/cropped-bob-ross-signature-1.png" group-title="Entertainment",STIRR The Bob Ross Channel (240p)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png" group-title="Lifestyle",The Design Network (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Entertainment",The Pet Collective (720p)
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Outdoor",The Pet Collective (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
 #EXTINF:-1 tvg-id="TMZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
@@ -246,3 +234,65 @@ https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
+#EXTINF:-1 tvg-id="CraftStoreTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://thecraftstore.com/Styles/craft_store_logo.svg" group-title="Shop",Craft Store TV (720p)
+https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gb-news-uk.png" group-title="News",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:-1 tvg-id="GodTV.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZMYRG9h.jpg" group-title="Religion",God TV US (720p)
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://horseandcountry.tv/wp-content/themes/hctv/img/hc_logo_header.png" group-title="Outdoor",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-id="MavTVSelect.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/KMGUuAX.png" group-title="Sports",MavTV Select (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimalsUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Animals",Pluto TV Animals (England) (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+#EXTINF:-1 tvg-id="Reuters.uk" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="News",Reuters (1080p)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p)
+https://live-hr6yv36f.rmbl.ws/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Sports",SportsGrid (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
+#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://www.sportystuff.tv/src/img/logo-purple.png" group-title="Sports",Sporty Stuff TV (720p)
+https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (1080p)
+https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeAustralia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Australia (1080p)
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Travel (720p)
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletubbies.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="Entertainment",Teletubbies (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="UK" tvg-language="" tvg-logo="" group-title="Sports",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeLine.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/AzZhwWR.jpg" group-title="Documentary",Time Line (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="Naruto.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" group-title="Animation",Pluto TV Naruto (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f7790b3ed0c88000720b241/colorLogoPNG.png" group-title="Animation",Pluto TV One Piece (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="RealStories.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J6dpNiD.png" group-title="Documentary",Real Stories (1080p)
+https://lds-realstories-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNewsHighlights.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjQ0OTQ3NTlf/Tubi_LiveNews_840x840.png" group-title="News",CBC News Highlights (720p)
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Outdoor",Love Nature (1080p)
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7WF7ca4.png" group-title="Outdoor",Outside TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="Sports",Players TV (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
+#EXTINF:-1 tvg-id="SaltPlusLightTelevision.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religion",Salt + Light Television (1080p)
+https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Music",Stingray Everything 80s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/StingrayMusic_512x512.png?raw=true" group-title="Music",Stingray Flashback 70s (1080p)
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Music",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Music",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Music",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
