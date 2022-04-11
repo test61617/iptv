@@ -234,7 +234,7 @@ https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="CraftStoreTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://thecraftstore.com/Styles/craft_store_logo.svg" group-title="Shop",Craft Store TV (720p)
+#EXTINF:-1 tvg-id="CraftStoreTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://thecraftstore.com/Styles/craft_store_logo.svg" group-title="Lifestyle",Craft Store TV (720p)
 https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
