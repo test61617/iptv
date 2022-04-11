@@ -58,7 +58,7 @@ https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="Sports",Adventure Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Comedy",AFV (720p)
+#EXTINF:-1 tvg-id="AFV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lG3OHxA.png" group-title="Entertainment",AFV (720p)
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="General",AMC East (720p)
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
