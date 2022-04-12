@@ -300,7 +300,7 @@ https://stirr.ott-channels.stingray.com/155/master.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Outdoor",AKC TV (1080p)
 https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
-#EXTINF:-1 tvg-id="BibleExplorations.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wwUtlBi.png" group-title="United States",Bible Explorations (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="BibleExplorations.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wwUtlBi.png" group-title="Religion",Bible Explorations (480p) [Not 24/7]
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BigLifeTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bjTeasa.png" group-title="Lifestyle",Big Life TV (720p)
 https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
@@ -312,7 +312,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 https://contvanime-littlstar.cinedigm.com/ingest/master.m3u8
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78" group-title="Documentary",Court TV (1080p)
 https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8
-#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="United States",Crime 360 (720p)
+#EXTINF:-1 tvg-id="Crime360.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fYXChY0.png" group-title="Documentary",Crime 360 (720p)
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Entrepreneur.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Wb4WPPK.jpg" group-title="Lifestyle",Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
@@ -330,13 +330,13 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.
 https://haunttv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115" group-title="Movies",HBO Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Hungry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="United States",Hungry (720p)
+#EXTINF:-1 tvg-id="Hungry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="Cooking",Hungry (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="HuntChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="United States",Hunt Channel (1080p)
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Outdoor",Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/256.png" group-title="Entertainment",IFC East (720p)
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="United States",IFC Films Picks (1080p)
+#EXTINF:-1 tvg-id="IFCFilmsPicks.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",IFC Films Picks (1080p)
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="LawCrime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HY64Nhe.png" group-title="Documentary",Law & Crime (720p)
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
@@ -364,8 +364,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f27bbe47
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVHomesUnderHammer.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Lifestyle",Pluto TV Homes Under Hammer (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVIcePilots.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5c3639dd01112605397333a2/colorLogoPNG.png" group-title="United States",Pluto TV Ice Pilots (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ce40f42ba7f7f5ea9518fe1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=aeca4ad7-0583-11eb-8b9f-0242ac110002&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVLives.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d8beeb39b5d5d5f8c672530/colorLogoPNG.png" group-title="Documentary",Pluto TV Lives (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8beeb39b5d5d5f8c672530/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8beeb39b5d5d5f8c672530&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=276&terminate=false&userId=
 #EXTINF:-1 tvg-id="PlutoTVMilitary.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="Documentary",Pluto TV Military (720p)
