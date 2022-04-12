@@ -128,7 +128,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="General",CBSN New York NY (720p)
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Lifestyle",CineLife (1080p)
+#EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies",CineLife (1080p)
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",CNN
 http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
