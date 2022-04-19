@@ -385,7 +385,7 @@ https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 
 
 
-#EXTINF:-1, Disney Channel, group-title="test"
+#EXTINF:-1, group-title="test", Disney Channel
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1, Disney Channel, group-title="test"
 http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
