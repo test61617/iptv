@@ -192,9 +192,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="News",Pluto TV News (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Entertainment",Pluto TV Nick (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Pluto TV Action Sports (684p)
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://iptvxpix.ml/nickelodeon-hd.png",Nickelodeon HD
+http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Pluto TV Action Sports (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
 #EXTINF:-1 tvg-id="ShowtimeSelects.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="Entertainment",Pluto TV Showtime Select (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -382,158 +381,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",STIRR Whistle Sports (1080p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-
-
-
-#EXTINF:-1, group-title="test", YLE TV1
-http://87.121.34.253:9987/udp/239.100.0.12:1234
- #EXTINF:-1, group-title="test", YLE TV2
-http://87.121.34.253:9987/udp/239.100.0.13:1234
- #EXTINF:-1, group-title="test", YLE FILM
-http://87.121.34.253:9987/udp/239.100.0.14:1234
- #EXTINF:-1,4 group-title="test", TV
-http://87.121.34.253:9987/udp/239.100.0.15:1234
- #EXTINF:-1, group-title="test", IIM
-http://87.121.34.253:9987/udp/239.100.0.16:1234
- #EXTINF:-1, group-title="test", MAX
-http://87.121.34.253:9987/udp/239.100.0.17:1234
- #EXTINF:-1, group-title="test", N
-http://87.121.34.253:9987/udp/239.100.0.18:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.19:1234
- #EXTINF:-1, group-title="test", MAX
-http://87.121.34.253:9987/udp/239.100.0.20:1234
- #EXTINF:-1, group-title="test", SUB
-http://87.121.34.253:9987/udp/239.100.0.21:1234
- #EXTINF:-1, group-title="test", DRK K
-http://87.121.34.253:9987/udp/239.100.0.24:1234
- #EXTINF:-1, group-title="test", Kanal D
-http://87.121.34.253:9987/udp/239.100.0.25:1234
- #EXTINF:-1, group-title="test", NTV
-http://87.121.34.253:9987/udp/239.100.0.26:1234
- #EXTINF:-1, group-title="test", TNT
-http://87.121.34.253:9987/udp/239.100.0.27:1234
- #EXTINF:-1, group-title="test", TV TS
-http://87.121.34.253:9987/udp/239.100.0.28:1234
- #EXTINF:-1, group-title="test", DISNEY CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.29:1234
- #EXTINF:-1, group-title="test", REN TV
-http://87.121.34.253:9987/udp/239.100.0.30:1234
- #EXTINF:-1, group-title="test", BOX
-http://87.121.34.253:9987/udp/239.100.0.31:1234
- #EXTINF:-1, group-title="test", ORT
-http://87.121.34.253:9987/udp/239.100.0.44:1234
- #EXTINF:-1, group-title="test", KERCUEL
-http://87.121.34.253:9987/udp/239.100.0.45:1234
- #EXTINF:-1, group-title="test", ROSSYA 2
-http://87.121.34.253:9987/udp/239.100.0.46:1234
- #EXTINF:-1, group-title="test", AVTO PLUS
-http://87.121.34.253:9987/udp/239.100.0.47:1234
- #EXTINF:-1, group-title="test", CTC
-http://87.121.34.253:9987/udp/239.100.0.48:1234
- #EXTINF:-1, group-title="test", KOMEDYA
-http://87.121.34.253:9987/udp/239.100.0.49:1234
- #EXTINF:-1, group-title="test", 7
-http://87.121.34.253:9987/udp/239.100.0.51:1234
- #EXTINF:-1, group-title="test", NICKELODEON
-http://87.121.34.253:9987/udp/239.100.0.52:1234
- #EXTINF:-1, group-title="test", DISCOVERY
-http://87.121.34.253:9987/udp/239.100.0.53:1234
- #EXTINF:-1, group-title="test", 3SAT
-http://87.121.34.253:9987/udp/239.100.0.54:1234
- #EXTINF:-1, group-title="test", NATIONAL GEOGERAPHIC
-http://87.121.34.253:9987/udp/239.100.0.55:1234
- #EXTINF:-1, group-title="test", SPORT 1
-http://87.121.34.253:9987/udp/239.100.0.67:1234
- #EXTINF:-1, group-title="test", SPORT 2
-http://87.121.34.253:9987/udp/239.100.0.68:1234
- #EXTINF:-1, group-title="test", SPORTS 2
-http://87.121.34.253:9987/udp/239.100.0.69:1234
- #EXTINF:-1, group-title="test", FEM
-http://87.121.34.253:9987/udp/239.100.0.70:1234
- #EXTINF:-1, group-title="test", KINO
-http://87.121.34.253:9987/udp/239.100.0.73:1234
- #EXTINF:-1, group-title="test", C SPORT
-http://87.121.34.253:9987/udp/239.100.0.74:1234
- #EXTINF:-1, group-title="test", 8
-http://87.121.34.253:9987/udp/239.100.0.75:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.76:1234
- #EXTINF:-1, group-title="test", VOX
-http://87.121.34.253:9987/udp/239.100.0.77:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.78:1234
- #EXTINF:-1, group-title="test", ITV
-http://87.121.34.253:9987/udp/239.100.0.79:1234
- #EXTINF:-1, group-title="test", ITV 2
-http://87.121.34.253:9987/udp/239.100.0.80:1234
- #EXTINF:-1, group-title="test", ITV 4
-http://87.121.34.253:9987/udp/239.100.0.81:1234
- #EXTINF:-1, group-title="test", SML
-http://87.121.34.253:9987/udp/239.100.0.82:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.83:1234
- #EXTINF:-1, group-title="test", ITV 3
-http://87.121.34.253:9987/udp/239.100.0.84:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.2:9987/udp/239.100.0.85:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.86:1234
- #EXTINF:-1, group-title="test", 5
-http://87.121.34.253:9987/udp/239.100.0.87:1234
- #EXTINF:-1, group-title="test", RTE One
-http://87.121.34.253:9987/udp/239.100.0.88:1234
- #EXTINF:-1, group-title="test", RTE TWO
-http://87.121.34.253:9987/udp/239.100.0.89:1234
- #EXTINF:-1, group-title="test", PONC
-http://87.121.34.253:9987/udp/239.100.0.90:1234
- #EXTINF:-1, group-title="test", 3
-http://87.121.34.253:9987/udp/239.100.0.91:1234
- #EXTINF:-1, group-title="test", BBC CBEEBIES
-http://87.121.34.253:9987/udp/239.100.0.92:1234
- #EXTINF:-1, group-title="test", 3E
-http://87.121.34.253:9987/udp/239.100.0.93:1234
- #EXTINF:-1, group-title="test", CNBC
-http://87.121.34.253:9987/udp/239.100.0.94:1234
- #EXTINF:-1, group-title="test", 6
-http://87.121.34.253:9987/udp/239.100.0.95:1234
- #EXTINF:-1, group-title="test", VIASAT FILM
-http://87.121.34.253:9987/udp/239.100.0.96:1234
- #EXTINF:-1, group-title="test", LO
-http://87.121.34.253:9987/udp/239.100.0.97:1234
- #EXTINF:-1, group-title="test", C LIVE
-http://87.121.34.253:9987/udp/239.100.0.98:1234
- #EXTINF:-1, group-title="test", ROSSYA 1
-http://87.121.34.253:9987/udp/239.100.0.99:1234
- #EXTINF:-1, group-title="test", 5 PLANETA 2
-http://87.121.34.253:9987/udp/239.100.0.100:1234
- #EXTINF:-1, group-title="test", RBK
-http://87.121.34.253:9987/udp/239.100.0.101:1234
- #EXTINF:-1, group-title="test", FRIDAY
-http://87.121.34.253:9987/udp/239.100.0.102:1234
- #EXTINF:-1, group-title="test", NO ALEJYA
-http://87.121.34.253:9987/udp/239.100.0.103:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.104:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.105:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.106:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.107:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.108:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.109:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.110:1234
- #EXTINF:-1, group-title="test", SKY SPORT 1
-http://87.121.34.253:9987/udp/239.100.0.111:1234
- #EXTINF:-1, group-title="test", NEW CHANNEL
-http://87.121.34.253:9987/udp/239.100.0.112:1234
- #EXTINF:-1, group-title="test", VH+1
-http://87.121.34.253:9987/udp/239.100.0.113:1234
- #EXTINF:-1, group-title="test", MTV CLASSIC
-http://87.121.34.253:9987/udp/239.100.0.114:1234
- #EXTINF:-1, group-title="test", MTV HITS
-http://87.121.34.253:9987/udp/239.100.0.115:1234 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-au-espn-135.png",ESPN
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/1262
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-nz-espn-2-466.png",ESPN 2
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/95868
+#EXTINF:-1 group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-ufc-ppv-stream-822.png",UFC TV
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/33843
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ytimg.com/vi/Ou266-JxPIc/maxresdefault.jpg",World Fishing Network
+http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/30261
+#EXTINF:-1 group-title="Music" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
