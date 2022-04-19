@@ -407,9 +407,11 @@ http://new-pro.tv:8080/Fernando/123321/70486?checkedby:iptvcat.net
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1571?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment",Disney Channel
 http://new-pro.tv:8080/Fernando/123321/70383?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", CA Cartoon Network (B)
+https://list.iptvcat.com/my_list/s/c965b75c491e8454fd3de07ab39efc5c.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", Cartoon Network
+https://list.iptvcat.com/my_list/s/29a16c8991d3c2f76f8be03c3700df1c.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", Cartoon Network
+https://list.iptvcat.com/my_list/s/0385be219989309623cdef6fb78f74c1.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", Cartoon Network HD
-https://list.iptvcat.com/my_list/s/69dd2f378962fa66d4f0c78301ca0ae7.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", Cartoon Network 1
-https://list.iptvcat.com/my_list/s/9ddfa306963ff5c412d807577bc3042e.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Entertainment", UK-Cartoon Network
-https://list.iptvcat.com/my_list/s/4a2b2fcc2b5577b4d967c4e3dc7cfd4e.m3u8
+https://list.iptvcat.com/my_list/s/4992c5e4b54c9b3858912ce0ec567889.m3u8
