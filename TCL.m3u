@@ -399,7 +399,7 @@ http://new-pro.tv:8080/Fernando/123321/70476?checkedby:iptvcat.net
 http://new-pro.tv:8080/Fernando/123321/70485?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Family
 http://new-pro.tv:8080/Fernando/123321/70483?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Zone
 http://new-pro.tv:8080/Fernando/123321/70486?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-HBO Plus West(M)(720)
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",USA-HBO Plus West(M)(720)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1571?checkedby:iptvcat.net
