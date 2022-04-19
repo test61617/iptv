@@ -382,3 +382,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="Sports",STIRR Whistle Sports (1080p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+
+
+
+#EXTINF:-1, Disney Channel group-title="test"
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1, Disney Channel group-title="test"
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1, Disney Junior group-title="test"
+http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
+#EXTINF:-1, Disney Junior group-title="test"
+http://185.176.117.242/live/eds/Disney_Junior/HLS_encr/index.m3u8
+#EXTINF:-1, Disney_XD group-title="test"
+http://185.176.117.242/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1, Disney_XD group-title="test"
+http://185.176.117.242/live/eds/Disney_XD/HLS_encr/index.m3u8
