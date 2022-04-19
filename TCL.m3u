@@ -391,3 +391,15 @@ http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/33843
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/30261
 #EXTINF:-1 group-title="Music" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO 2
+http://new-pro.tv:8080/Fernando/123321/70478?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO HD
+http://new-pro.tv:8080/Fernando/123321/70476?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Signature
+http://new-pro.tv:8080/Fernando/123321/70485?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Family
+http://new-pro.tv:8080/Fernando/123321/70483?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",HBO Zone
+http://new-pro.tv:8080/Fernando/123321/70486?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA-HBO Plus West(M)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1571?checkedby:iptvcat.net
