@@ -146,8 +146,6 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Cooking",Cut Up N Cook (720p)
-https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",EDGEsport (1080p)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="EntertainmentTonight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/TXamgdB.png" group-title="News",Entertainment Tonight (1080p)
@@ -162,6 +160,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8
 #EXTINF:-1 tvg-id="FunnyorDie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="Entertainment",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Undefined",Food Network (1080p)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/65415?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="iFoodTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (1080p)
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="Entertainment",IGN (1080p)
@@ -334,6 +334,8 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 http://new-pro.tv:8080/Fernando/123321/70476?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="Hungry.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/MIUDYh0.png" group-title="Cooking",Hungry (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Cooking",Cut Up N Cook (720p)
+https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8
 #EXTINF:-1 tvg-id="HuntChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DkvWWbE.png" group-title="Outdoor",Hunt Channel (1080p)
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="IFCEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/256.png" group-title="Entertainment",IFC East (720p)
