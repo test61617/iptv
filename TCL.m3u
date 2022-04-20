@@ -27,8 +27,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://play-lh.googleusercontent.com/bSgh79lFAYSf797C_lA23s-NwRKmbnyhHm_rMRypMmgfSDQCjnd4k4BxP--qMZ81-9c" group-title="General",CCTN 47 (1080p) [Not 24/7]
 #EXTINF:-1 tvg-id="CNNPhilippines.ph" tvg-country="PH" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNN_Philippines_Logo.svg/440px-CNN_Philippines_Logo.svg.png" group-title="News",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
-http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CNN-International-Logo.svg/1280px-CNN-International-Logo.svg.png" group-title="News",CNN International HD
+http://new-pro.tv:8080/Fernando/123321/219684?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1 tvg-id="GreatCommissionTVGCTV.ph" tvg-country="PH" tvg-language="English" tvg-logo="" group-title="General",Great Commission TV (GCTV) (360p) [Not 24/7]
