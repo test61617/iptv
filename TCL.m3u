@@ -66,6 +66,10 @@ http://new-pro.tv:8080/Fernando/123321/70383?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://iptvxpix.ml/nickelodeon-hd.png",Nickelodeon HD
 http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Sports",Pluto TV Action Sports (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Entertainment",MTV
+http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
+#EXTINF:-1 tvg-id="ETLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",ET Live (1080p)
+https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-id="AbsoluteRealitybyWETV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oOFjyYf.png" group-title="Entertainment",Absolute Reality by WE TV (1080p)
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="Movies",Hallmark Movies & More (720p)
@@ -166,8 +170,6 @@ http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/65415?checkedby:iptvcat.com
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="Entertainment",IGN (1080p)
 https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Entertainment",MTV
-http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV Media (720p)
@@ -316,8 +318,6 @@ https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/inde
 https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Entrepreneur.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Wb4WPPK.jpg" group-title="Lifestyle",Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ETLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Entertainment",ET Live (1080p)
-https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" group-title="Movies",FilmRise Family (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Sports",fubo Sports Network (720p)
