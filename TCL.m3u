@@ -116,8 +116,8 @@ https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:-1 tvg-id="BumblebeeTVSmosh.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eCBYHJ4.png" group-title="Entertainment",Bumblebee TV Smosh (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel (720p) [Not 24/7]
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="CatholicTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RI9GbLX.jpg" group-title="Religion",Catholic TV (720p) [Not 24/7]
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://zap2it.tmsimg.com/h5/NowShowing/10098/s10098_h5_aa.png" group-title="General",CBS 8 San Diego CA (KFMB-TV) (1080p)
@@ -164,7 +164,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IGN.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png" group-title="Entertainment",IGN (1080p)
 https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television.png" group-title="Entertainment",MTV
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/MTV_New_Official_Logo_2021.png" group-title="Entertainment",MTV
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
 #EXTINF:-1 tvg-id="NASATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/bKVNdeh.jpg" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -234,6 +234,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="Music",California Music Channel (720p) [Not 24/7]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/X27MGHd.png" group-title="Entertainment",Young Hollywood (720p)
 https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="CraftStoreTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://thecraftstore.com/Styles/craft_store_logo.svg" group-title="Lifestyle",Craft Store TV (720p)
@@ -388,8 +390,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ytimg.com/vi/Ou266-JxPIc/maxresdefault.jpg",World Fishing Network
 http://tv.jovialservices.me:826/Deemer/NgTVYqWGxR/30261
-#EXTINF:-1 group-title="Music" tvg-id="5481" tvg-logo="http://epg.it999.ru/img2/5481.png",MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Documentary",HBO 2
 http://new-pro.tv:8080/Fernando/123321/70478?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
