@@ -160,7 +160,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 http://51.161.118.146:8080/ISG03_FOX_WASHINGTON_DC_WTTG/video.m3u8
 #EXTINF:-1 tvg-id="FunnyorDie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/PMMsywm.png" group-title="Entertainment",Funny or Die (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Undefined",Food Network (1080p)
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Cooking",Food Network (1080p)
 http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/65415?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="iFoodTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GnmHLNB.png" group-title="Cooking",iFood.TV (1080p)
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
@@ -402,7 +402,7 @@ http://new-pro.tv:8080/Fernando/123321/70483?checkedby:iptvcat.net
 http://new-pro.tv:8080/Fernando/123321/70486?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="Documentary",Discovery Life HD
 http://fortv.cc:8080/alphonso/alphonso/9861?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Outdoor",CA National Geographic Wild
+#EXTINF:0 tvg-country="CA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Outdoor",National Geographic Wild
 http://revteam1.offshorerev.cc:80/4529036487475419/160417160718/112312?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="BumblebeeTVCoronaVirusGov.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yxq8ZsK.png" group-title="Science",Bumblebee TV CoronaVirus.Gov (720p) [Not 24/7]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
