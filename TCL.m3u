@@ -140,7 +140,7 @@ https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="Movies",CineLife (1080p)
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg" group-title="News",CNN
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="News",CNN
 http://38.127.211.18/live/c2eds/CNN/HLS/index.m3u8
 #EXTINF:-1 tvg-id="CrimeTime.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cQxKMMJ.jpg" group-title="Documentary",Crime Time (1080p)
 https://crimetimebamca-roku.amagi.tv/playlist.m3u8
@@ -216,7 +216,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="SoReal.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png" group-title="Lifestyle",So...Real (1080p)
 https://dai.google.com/linear/hls/event/VMzvtHhOQdOAzbV_hQKQbQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="Science",Space Channel
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/arrow/images/f/f9/Space_Channel-logo.png/revision/latest?cb=20191108081031" group-title="Science",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
 #EXTINF:-1 tvg-id="STIRRTheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.wp.com/experience.bobross.com/wp-content/uploads/2019/04/cropped-bob-ross-signature-1.png" group-title="Entertainment",STIRR The Bob Ross Channel (240p)
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
@@ -226,11 +226,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playli
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
 #EXTINF:-1 tvg-id="TMZ.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="Entertainment",TMZ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://e7.pngegg.com/pngimages/327/665/png-clipart-tnt-logo-television-channel-space-time-warner-cable-channel-line-up-television-text.png" group-title="Entertainment",TNT
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Entertainment",TNT
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TodayAD.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="News",Today All Day (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
-#EXTINF:-1 tvg-id="USAToday.us" tvg-country="US" tvg-language="English" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa_today_logo.png" group-title="News",USA Today (1080p)
+#EXTINF:-1 tvg-id="USAToday.us" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/USA-Today-logo.png" group-title="News",USA Today (1080p)
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="Music",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -250,7 +250,7 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimalsUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ddf8ea0d000120009bcad83/colorLogoPNG.png" group-title="Outdoor",Pluto TV Animals (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-#EXTINF:-1 tvg-id="Reuters.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://e7.pngegg.com/pngimages/207/210/png-clipart-reuters-tv-logo-thomson-reuters-corporation-news-others-miscellaneous-television.png" group-title="News",Reuters (1080p)
+#EXTINF:-1 tvg-id="Reuters.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Reuters_Logo.svg/1280px-Reuters_Logo.svg.png" group-title="News",Reuters (1080p)
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="Sports",SportsGrid (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
