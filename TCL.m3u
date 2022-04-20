@@ -39,7 +39,7 @@ http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
 #EXTINF:-1 tvg-id="PilipinasHD.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/Wis8fVO.jpg" group-title="General",Pilipinas HD (480p) [Not 24/7]
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png" group-title="Sports",Red Bull TV (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://www.digitaltveurope.com/files/2021/10/red-bull-tv.png" group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-country="PH" tvg-language="Tagalog" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="General",SMNI (720p) [Not 24/7]
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
